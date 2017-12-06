@@ -42,7 +42,7 @@
 	margin: 2em 0;
 	padding: 2em 0; 
 }
-.infoApp img {
+.infoApp img, iframe {
 	width: 100%;
 }
 .infoDriver {
