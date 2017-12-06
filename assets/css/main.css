@@ -1,0 +1,150 @@
+.addressInfo {
+	margin-top: 10%;
+}
+.btn {
+	border-color: #fff;
+}
+.bg-1 {
+	width: 100%;
+	background-image: url(../images/taxi.jpg);
+	height: 90vh;
+	background-size: 100%;
+	background-position: 50% 95%;
+}
+.bg-2 {
+	width: 100%;
+	background-image: url(../images/conduce.jpg);
+	height: 65vh;
+	background-size: cover;
+	background-position: 50% 55%;
+}
+.bg-yellow{
+	background-color: #fbbd00;
+	color: #fff;
+}
+.footer ul {
+	font-size: 13px;
+	list-style-type: none;
+	margin-left: 0;
+	padding-left: 0;
+}
+.footer ul li a {
+	padding: 0 0 5px 0;
+	display: block;
+	color: #fff
+}
+.form-control {
+	background-color: transparent;
+	border-color: #fff;
+}
+.infoApp {
+	border: 1px solid #fff;
+	margin: 2em 0;
+	padding: 2em 0; 
+}
+.infoApp img {
+	width: 100%;
+}
+.infoDriver {
+	padding-top: 8em;
+	background: rgba(0, 0, 0, 0.329);
+	color:#fff;
+	height: 65vh;
+}
+.infoDriver button {
+	background-color: #fbbd00;
+	border-color: #fbbd00;
+}
+.iphone {
+	border: 1px solid #fff;
+	padding: 1em;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+.iphone img {
+	width: 100%;
+}
+.iphone h3 {
+	padding-left: 30%;
+}
+.lineParagraph::after, .lineParagraph::before {
+	content: " ";
+	display: inline-block;
+	width: 5em;
+	height: 0.1em;
+	background-color: #fff;
+	margin: 1% 8%;
+}
+.nav_ {
+	background-color: #fff;
+	padding-bottom: 2em;
+}
+.mapBorder {
+	border: 1px solid #fff !important;
+	margin: 3em 0;
+	padding: 1em;
+}
+.map img {
+	width: 100%;
+	height: 60vh;
+	padding: 1em;
+}
+.register {
+	padding: 1em 0em 2em 2em;
+	background-color: #fbbd00;
+	color: #fff;
+	margin-top: 12em;
+}
+.register h3 {
+	margin-top:0em;
+	margin-bottom: 0.4em;
+}
+.registerMobile h3{
+	font-size: 3em;
+}
+.social {
+	padding-top: 12em;
+}
+.social li {
+	float: left;
+	height: 36px;
+	line-height: 36px;
+	margin: 0 10px 0 0;
+	padding: 0;
+}
+.socialMobile li{
+	float: left;
+	height: 36px;
+	line-height: 36px;
+	margin: 0 10px 0 0;
+	padding: 0
+}
+#logoBlanco {
+	width: 12%;
+	margin-left: 0.2em;
+}
+.footer {
+	background-color: rgb(49, 48, 48);
+}
+.footer-bottom p {
+	color: #fff;
+	padding-bottom:2em;
+}
+.footer-top {
+	padding-top: 3em;
+}
+.form-control::placeholder { 
+	color: #fff 
+}
+.storeApp ul {
+	padding-top: 9em;
+}
+.storeApp ul li a img {
+	width: 8em;
+}
+.storeAppMobile {
+	padding-top: 4em;
+}
+.storeAppMobile li a img {
+	width: 9em;
+}
